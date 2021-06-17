@@ -108,7 +108,7 @@ packages:
       name: image
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.14"
+    version: "2.1.19"
   matcher:
     dependency: transitive
     description:
@@ -204,14 +204,14 @@ packages:
       name: webview_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.3.22+1"
+    version: "0.3.24"
   xml:
     dependency: transitive
     description:
       name: xml
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.2.0"
+    version: "4.5.1"
   yaml:
     dependency: transitive
     description:

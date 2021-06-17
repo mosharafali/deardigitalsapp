@@ -11,13 +11,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Deardigitals App',
       home: Scaffold(
-        appBar: AppBar(
-          centerTitle: true,
-          title: Text('DearDigitals App'),
-          backgroundColor: Colors.blueGrey,
-        ),
         body: WebView(
-          initialUrl: "https://deardigitals.com",
+          initialUrl: "https://www.deardigitals.com/",
           javascriptMode: JavascriptMode.unrestricted,
         ), // WebView
       ), // Scaffold
